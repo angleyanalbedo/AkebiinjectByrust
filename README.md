@@ -1,0 +1,2 @@
+# AkebiinjectByrust
+ rust inject
